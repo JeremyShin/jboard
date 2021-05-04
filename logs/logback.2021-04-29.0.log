@@ -1,0 +1,93 @@
+2021-04-29 15:38:41,Starting Application on MacBook-Pro.local with PID 47462 (/Users/jeremy/pawdly/jboard/build/classes/java/main started by jeremy in /Users/jeremy/pawdly/jboard)
+2021-04-29 15:38:41,No active profile set, falling back to default profiles: default
+2021-04-29 15:38:41,Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-04-29 15:38:41,Finished Spring Data repository scanning in 51ms. Found 1 repository interfaces.
+2021-04-29 15:38:42,Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$aadbaf45] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-04-29 15:38:42,Tomcat initialized with port(s): 8080 (http)
+2021-04-29 15:38:42,Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-29 15:38:42,Starting service [Tomcat]
+2021-04-29 15:38:42,Starting Servlet engine: [Apache Tomcat/9.0.22]
+2021-04-29 15:38:42,Initializing Spring embedded WebApplicationContext
+2021-04-29 15:38:42,Root WebApplicationContext: initialization completed in 1546 ms
+2021-04-29 15:38:42,HikariPool-1 - Starting...
+2021-04-29 15:38:43,HikariPool-1 - Start completed.
+2021-04-29 15:38:43,HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2021-04-29 15:38:43,HHH000412: Hibernate Core {5.3.10.Final}
+2021-04-29 15:38:43,HHH000206: hibernate.properties not found
+2021-04-29 15:38:43,HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2021-04-29 15:38:43,HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-04-29 15:38:44,HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@2997ddfc'
+2021-04-29 15:38:44,Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-29 15:38:44,HHH000397: Using ASTQueryTranslatorFactory
+2021-04-29 15:38:45,Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-29 15:38:45,spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-29 15:38:45,Adding welcome page template: index
+2021-04-29 15:38:45,Starting ProtocolHandler ["http-nio-8080"]
+2021-04-29 15:38:45,Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-29 15:38:45,Started Application in 4.702 seconds (JVM running for 5.158)
+2021-04-29 15:38:51,Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-29 15:38:51,Initializing Servlet 'dispatcherServlet'
+2021-04-29 15:38:51,Completed initialization in 13 ms
+2021-04-29 15:38:51,/,javax.servlet.http.Cookie@5295536f
+2021-04-29 15:38:57,/posts/save,javax.servlet.http.Cookie@4f22dc28
+2021-04-29 15:39:00,No mapping for GET /oauth2/authorization/google
+2021-04-29 15:39:49,/,javax.servlet.http.Cookie@3eac4c1
+2021-04-29 15:39:52,/posts/save,javax.servlet.http.Cookie@32ddef
+2021-04-29 15:39:57,/api/v1/posts,javax.servlet.http.Cookie@1fae4852
+2021-04-29 15:40:00,/,javax.servlet.http.Cookie@6b2e4051
+2021-04-29 15:41:05,Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-29 15:41:05,Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-29 15:41:05,HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-04-29 15:41:05,HikariPool-1 - Shutdown initiated...
+2021-04-29 15:41:05,HikariPool-1 - Shutdown completed.
+2021-04-29 17:31:24,Starting Application on MacBook-Pro.local with PID 49482 (/Users/jeremy/pawdly/jboard/build/classes/java/main started by jeremy in /Users/jeremy/pawdly/jboard)
+2021-04-29 17:31:24,No active profile set, falling back to default profiles: default
+2021-04-29 17:31:25,Bootstrapping Spring Data repositories in DEFAULT mode.
+2021-04-29 17:31:25,Finished Spring Data repository scanning in 53ms. Found 1 repository interfaces.
+2021-04-29 17:31:25,Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8f08ed56] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-04-29 17:31:26,Tomcat initialized with port(s): 8080 (http)
+2021-04-29 17:31:26,Initializing ProtocolHandler ["http-nio-8080"]
+2021-04-29 17:31:26,Starting service [Tomcat]
+2021-04-29 17:31:26,Starting Servlet engine: [Apache Tomcat/9.0.22]
+2021-04-29 17:31:26,Initializing Spring embedded WebApplicationContext
+2021-04-29 17:31:26,Root WebApplicationContext: initialization completed in 1575 ms
+2021-04-29 17:31:26,HikariPool-1 - Starting...
+2021-04-29 17:31:26,HikariPool-1 - Start completed.
+2021-04-29 17:31:26,HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2021-04-29 17:31:26,HHH000412: Hibernate Core {5.3.10.Final}
+2021-04-29 17:31:26,HHH000206: hibernate.properties not found
+2021-04-29 17:31:27,HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2021-04-29 17:31:27,HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-04-29 17:31:27,HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@7b6141f0'
+2021-04-29 17:31:27,Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-29 17:31:28,HHH000397: Using ASTQueryTranslatorFactory
+2021-04-29 17:31:28,Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-29 17:31:28,spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-29 17:31:28,Adding welcome page template: index
+2021-04-29 17:31:29,Starting ProtocolHandler ["http-nio-8080"]
+2021-04-29 17:31:29,Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-29 17:31:29,Started Application in 4.818 seconds (JVM running for 5.312)
+2021-04-29 17:31:44,Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-29 17:31:44,Initializing Servlet 'dispatcherServlet'
+2021-04-29 17:31:44,Completed initialization in 14 ms
+2021-04-29 17:31:44,/,javax.servlet.http.Cookie@7d1b6803
+2021-04-29 17:31:50,/,javax.servlet.http.Cookie@587515a4
+2021-04-29 17:31:52,/,javax.servlet.http.Cookie@64e2f267
+2021-04-29 17:31:52,/,javax.servlet.http.Cookie@30cc6d1e
+2021-04-29 17:31:53,/,javax.servlet.http.Cookie@21d0a103
+2021-04-29 17:31:59,/,javax.servlet.http.Cookie@66d00973
+2021-04-29 17:31:59,/,javax.servlet.http.Cookie@1f90bc4f
+2021-04-29 17:32:26,/,javax.servlet.http.Cookie@2011b6d7
+2021-04-29 17:32:27,/,javax.servlet.http.Cookie@1f196003
+2021-04-29 17:32:28,/,javax.servlet.http.Cookie@e05ae3d
+2021-04-29 17:32:28,/,javax.servlet.http.Cookie@49051ead
+2021-04-29 17:32:28,/,javax.servlet.http.Cookie@7ff837b9
+2021-04-29 17:39:41,Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-29 17:39:42,Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-29 17:39:42,HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-04-29 17:39:42,HikariPool-1 - Shutdown initiated...
+2021-04-29 17:39:42,HikariPool-1 - Shutdown completed.
